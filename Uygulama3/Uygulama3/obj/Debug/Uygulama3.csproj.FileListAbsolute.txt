@@ -1,0 +1,7 @@
+C:\Users\msı\source\repos\Uygulama3\Uygulama3\bin\Debug\Uygulama3.exe.config
+C:\Users\msı\source\repos\Uygulama3\Uygulama3\bin\Debug\Uygulama3.exe
+C:\Users\msı\source\repos\Uygulama3\Uygulama3\bin\Debug\Uygulama3.pdb
+C:\Users\msı\source\repos\Uygulama3\Uygulama3\obj\Debug\Uygulama3.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\Uygulama3\Uygulama3\obj\Debug\Uygulama3.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\Uygulama3\Uygulama3\obj\Debug\Uygulama3.exe
+C:\Users\msı\source\repos\Uygulama3\Uygulama3\obj\Debug\Uygulama3.pdb
